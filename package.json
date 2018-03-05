@@ -1,0 +1,19 @@
+{
+  "name": "spider-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "lupinggan",
+  "license": "ISC",
+  "devDependencies": {
+    "async": "^2.6.0",
+    "cheerio": "^1.0.0-rc.2",
+    "eslint": "^4.18.1",
+    "eventproxy": "^1.0.0",
+    "superagent": "^3.8.2"
+  }
+}
